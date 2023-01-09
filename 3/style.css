@@ -1,0 +1,107 @@
+body{
+    background-color: #f9f2ec;
+}
+
+.jeden, .dwa, .trzy{
+    text-indent: 50px;
+}
+
+.jeden::first-letter{
+    font-family: Algerian;
+    font-size: 40px;
+    margin: 5px;
+    padding: 5px;
+    background-color: yellow;
+    border: solid 2px red;
+}
+
+.dwa::first-letter{
+    font-family: Algerian;
+    font-size: 40px;
+    margin: 5px;
+    padding: 5px;
+    background-color: yellow;
+    border: solid 2px red;
+}
+
+.trzy::first-letter{
+    font-family: Algerian;
+    font-size: 40px;
+    margin: 5px;
+    padding: 5px;
+    background-color: yellow;
+    border: solid 2px red;
+}
+
+.jeden::first-line{
+    font-family: Cambria;
+    font-size: 12px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+
+.dwa::first-line{
+    font-family: Cambria;
+    font-size: 12px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+
+.trzy::first-line{
+    font-family: Cambria;
+    font-size: 12px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+
+.cztery, .piec{
+    text-indent: 20px;
+}
+
+.cztery::first-letter{
+    font-family: Curlz MT;
+    font-size: 60px;
+    margin: 5px;
+    padding: 5px;
+    background-color: yellow;
+    border: solid 1px red;
+    color: black;
+}
+
+.piec::first-letter{
+    font-family: Curlz MT;
+    font-size: 60px;
+    margin: 5px;
+    padding: 5px;
+    background-color: yellow;
+    border: solid 1px red;
+    color: black;
+}
+
+.cztery:first-line{
+    font-family: Jokerman;
+    font-size: 20px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+
+.piec:first-line{
+    font-family: Jokerman;
+    font-size: 20px;
+    background-color: white;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    text-decoration: underline;
+}
+
+img{
+    float: left;
+}

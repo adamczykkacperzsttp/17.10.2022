@@ -1,0 +1,39 @@
+.jeden{
+    opacity: 0.1;
+}
+
+.dwa{
+    opacity: 0.3;
+}
+
+.trzy{
+    opacity: 0.5;
+}
+
+.cztery{
+    opacity: 0.7;
+}
+
+.piec{
+    opacity: 0.9;
+}
+
+.jeden:hover{
+    opacity: 1;
+}
+
+.dwa:hover{
+    opacity: 1;
+}
+
+.trzy:hover{
+    opacity: 1;
+}
+
+.cztery:hover{
+    opacity: 1;
+}
+
+.piec:hover{
+    opacity: 1;
+}

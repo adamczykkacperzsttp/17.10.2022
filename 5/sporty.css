@@ -1,0 +1,30 @@
+body
+{
+    background-color: lightgray;
+}
+
+h1
+{
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+
+#nagluwek
+{
+    align-items: center;
+    background-color: red;
+    float: top;
+    height: 100px;
+}
+
+#obrazy
+{
+    text-align: center;
+}
+
+img
+{
+    margin: 5px;
+    padding: 0px;
+    width: 50%;
+}

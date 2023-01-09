@@ -1,0 +1,40 @@
+img
+{
+    margin: 5px;
+    padding: 0px;
+    border: red double 10px;
+}
+
+body
+{
+    background-image: url(tlo.png);
+}
+
+h1
+{
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+
+#nagluwek
+{
+    align-items: center;
+    background-color: green;
+    float: top;
+    height: 90px;
+}
+
+#obrazy
+{
+    align-items: center;
+    text-align: center;
+}
+.aa1{
+    margin-top: 30px;
+    width: 970px;
+    height: auto;
+    text-align: center;
+    align-self: center;
+}
+
+
